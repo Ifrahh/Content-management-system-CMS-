@@ -1,0 +1,718 @@
+define('WP_DEBUG',true);
+define('WP_DEBUG_LOG',true);
+define('WP_DEBUG_DISPLAY',true);
+define('SCRIPT_DEBUG',true);[04-Apr-2018 11:51:57 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[04-Apr-2018 11:53:36 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[04-Apr-2018 12:01:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[04-Apr-2018 12:02:10 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[04-Apr-2018 12:03:55 UTC] PHP Parse error:  syntax error, unexpected 'i' (T_STRING), expecting ';' in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 47
+[04-Apr-2018 12:05:45 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[04-Apr-2018 12:05:45 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[04-Apr-2018 12:05:45 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:26:44 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:26:44 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:26:44 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:27:31 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:27:31 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:27:31 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:05 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:05 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:05 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:07 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:07 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:07 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:08 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:08 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:08 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:35 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:35 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:35 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:57 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:57 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:57 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:59 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:59 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:28:59 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:28:59 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:29:00 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:29:00 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:29:00 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:29:00 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:29:17 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:29:17 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:29:17 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:29:17 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 38
+[05-Apr-2018 11:29:17 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 48
+[05-Apr-2018 11:29:17 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:31:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[05-Apr-2018 11:31:14 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 40
+[05-Apr-2018 11:31:14 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:31:14 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 52
+[05-Apr-2018 11:31:35 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 40
+[05-Apr-2018 11:31:35 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:31:35 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 52
+[05-Apr-2018 11:31:40 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 40
+[05-Apr-2018 11:31:40 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:31:40 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 52
+[05-Apr-2018 11:32:00 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 40
+[05-Apr-2018 11:32:00 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:32:00 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 52
+[05-Apr-2018 11:32:07 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 40
+[05-Apr-2018 11:32:07 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 50
+[05-Apr-2018 11:32:07 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 52
+[05-Apr-2018 11:32:25 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:32:25 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:32:25 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:34:51 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:34:51 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:34:51 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:34:52 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:34:52 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:34:52 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:35:14 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:35:14 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:35:14 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:39:18 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:39:18 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:39:18 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:48:43 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:48:43 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:48:43 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:50:05 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:50:05 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:50:05 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 11:51:24 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 11:51:24 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 11:51:24 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 14:18:50 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 14:18:50 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 14:18:50 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 17:07:52 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 17:07:52 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 17:07:52 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 17:07:53 UTC] PHP Warning:  Use of undefined constant wellcome - assumed 'wellcome' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 41
+[05-Apr-2018 17:07:53 UTC] PHP Warning:  Use of undefined constant n - assumed 'n' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 51
+[05-Apr-2018 17:07:53 UTC] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\header.php on line 53
+[05-Apr-2018 18:04:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\functions.php on line 24
+[05-Apr-2018 18:06:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\functions.php on line 24
+[05-Apr-2018 18:08:42 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\functions.php on line 29
+[05-Apr-2018 18:10:42 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\functions.php on line 30
+[05-Apr-2018 18:12:44 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\functions.php on line 31
+[05-Apr-2018 18:45:37 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in C:\xampp\htdocs\wordpress\wp-content\themes\universitytheme\index.php on line 9
+[06-Apr-2018 07:07:13 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[06-Apr-2018 07:08:13 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[06-Apr-2018 07:08:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 347
+[06-Apr-2018 07:08:30 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 529
+[03-May-2018 09:42:00 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:42:11 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:43:13 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:43:25 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:02 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:18 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:21 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:30 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:43 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:56 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:44:59 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:00 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:01 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:16 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:31 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:33 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:45:49 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:46:04 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:46:19 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:46:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:46:49 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:47:04 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:47:19 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:47:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:49:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:36 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:43 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:44 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:46 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:53 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:55 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:51:59 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:08 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:09 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:16 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:19 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:21 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:52:37 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:54:12 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:54:18 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:54:19 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:55:14 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:55:20 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:55:32 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:55:41 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:55:54 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:57:13 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:57:44 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:57:46 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:58:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 09:59:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:00:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:01:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:02:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:03:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:04:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:05:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:06:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:07:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:08:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:09:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:10:48 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:11:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:12:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:13:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:14:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:15:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:16:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:17:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:18:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:19:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 10:20:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:07:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:08:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:09:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:10:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:11:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:12:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:13:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:14:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:15:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:16:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:17:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:18:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:20:36 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:22:36 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:24:38 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:26:39 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:28:40 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:34:33 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:35:05 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:36:07 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:38:08 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:40:09 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:42:10 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:27 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:28 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:32 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:32 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:43:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:45:51 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:45:53 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:46:32 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:46:34 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:09 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:38 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:46 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:55 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:47:56 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:48:00 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:48:25 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:49:54 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:50:25 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:50:28 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:50:40 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:51:11 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:51:11 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:51:24 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:51:25 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:52:29 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:53:39 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:53:40 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:53:42 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:53:44 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:54:26 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:54:39 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:54:48 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:55:01 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:55:11 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:55:14 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:55:47 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:56:33 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:56:35 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:57:10 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:57:12 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 11:59:57 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 12:02:54 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 12:04:08 UTC] PHP Warning:  Use of undefined constant ublog - assumed 'ublog' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\functions.php on line 48
+[03-May-2018 17:32:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\media.php on line 16
+[03-May-2018 17:33:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[04-May-2018 16:04:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\ublog\sidebar.php on line 10
+[04-May-2018 16:05:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4834
+[09-May-2018 14:45:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+[09-May-2018 16:13:51 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 529
+[09-May-2018 16:13:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+[09-May-2018 16:14:35 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 347
+[09-May-2018 16:14:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-upgrader.php on line 13
+[09-May-2018 16:22:33 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:24:02 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:24:16 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:24:22 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:26:40 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:26:43 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:28:29 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:28:35 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:28:55 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:29:02 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:29:46 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4147
+[09-May-2018 16:31:33 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universities\functions.php on line 161
+[09-May-2018 17:37:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[09-May-2018 17:38:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[11-May-2018 12:26:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\universities\index.php on line 41
+[12-May-2018 14:21:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[12-May-2018 14:21:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 347
+[12-May-2018 14:21:07 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 529
+[12-May-2018 14:22:28 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-admin\includes\translation-install.php on line 65
+[12-May-2018 15:40:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+[12-May-2018 15:42:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+[12-May-2018 15:48:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+[12-May-2018 18:02:56 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 529
+[14-May-2018 09:44:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[16-May-2018 13:34:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[16-May-2018 18:07:27 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 73
+[16-May-2018 18:23:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[16-May-2018 18:23:54 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[16-May-2018 18:51:09 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 74
+[18-May-2018 09:30:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+[18-May-2018 09:32:42 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 347
+[18-May-2018 09:32:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[18-May-2018 09:33:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-admin\includes\update.php on line 121
+[18-May-2018 09:33:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+[18-May-2018 09:33:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[19-May-2018 09:35:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[19-May-2018 09:36:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 347
+[19-May-2018 09:36:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 529
+[19-May-2018 11:32:41 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1531
+[20-May-2018 10:47:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\bookmark-template.php on line 51
+[20-May-2018 10:48:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[20-May-2018 10:50:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\update.php on line 155
+[20-May-2018 10:50:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[20-May-2018 10:50:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[21-May-2018 17:38:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[22-May-2018 13:07:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:08:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:08:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:38:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:39:10 UTC] PHP Notice:  Undefined index: text-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 13:39:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:39:57 UTC] PHP Notice:  Undefined index: text-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 13:39:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:56:46 UTC] PHP Notice:  Undefined index: text-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 13:56:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 13:58:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:50:13 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:50:13 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:50:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:52:20 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:52:20 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:52:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:52:22 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:52:22 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:52:22 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:53:38 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:53:38 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:53:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:53:39 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:53:39 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:53:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:53:57 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:53:57 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:53:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:54:13 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:57:08 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:57:11 UTC] PHP Notice:  Undefined index: social-icons in C:\xampp\htdocs\wordpress\wp-content\themes\universities\header.php on line 47
+[22-May-2018 15:57:11 UTC] PHP Notice:  Undefined index: textarea-example in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[22-May-2018 15:57:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:58:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[22-May-2018 15:58:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[23-May-2018 12:25:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+[23-May-2018 13:49:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[23-May-2018 13:50:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:43:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:43:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:44:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:44:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:45:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:45:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:45:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:46:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:46:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:52:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:52:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:52:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 16:53:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:14:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:27:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:28:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:33:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:34:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:39:37 UTC] PHP Parse error:  syntax error, unexpected ''output'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\universities\inc\kirki-config.php on line 30
+[24-May-2018 17:40:37 UTC] PHP Parse error:  syntax error, unexpected ''output'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\universities\inc\kirki-config.php on line 30
+[24-May-2018 17:42:38 UTC] PHP Parse error:  syntax error, unexpected ''output'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\universities\inc\kirki-config.php on line 30
+[24-May-2018 17:44:39 UTC] PHP Parse error:  syntax error, unexpected ''output'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\universities\inc\kirki-config.php on line 30
+[24-May-2018 17:52:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:57:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:57:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:57:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:57:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 17:59:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:00:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:05:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:05:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:05:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:06:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:06:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:07:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:13:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:13:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:13:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:13:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:17:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:32:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:32:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:33:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:33:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:33:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:33:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:34:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:36:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:36:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:36:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:36:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:37:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:38:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:38:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:39:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:39:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:39:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:39:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:39:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:42:32 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 18:42:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:42:59 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 18:43:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:43:14 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 18:43:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:43:21 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 18:43:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:44:03 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 18:44:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:44:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:50:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:51:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:51:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:51:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:51:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:51:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:54:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:54:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:54:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:54:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:54:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:55:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:56:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:57:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:58:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:58:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 18:59:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:00:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:11:22 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:14:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:15:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:20:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:20:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:20:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:21:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:22:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:28:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:31:20 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:31:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:33:18 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:33:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:33:33 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:33:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:34:18 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:34:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:34:24 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:34:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:34:34 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:34:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:35:55 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:35:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:36:15 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:36:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:36:23 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:36:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:36:37 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:36:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[24-May-2018 19:36:45 UTC] PHP Notice:  Undefined variable: image in C:\xampp\htdocs\wordpress\wp-content\themes\universities\template-home.php on line 19
+[24-May-2018 19:36:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '
+new_excerpt_more' not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
